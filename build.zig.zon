@@ -1,0 +1,5 @@
+.{
+    .name = "dmidecode",
+    .version = "0.0.1",
+    .paths = .{ "src", "build.zig" },
+}
